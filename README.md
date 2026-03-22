@@ -86,5 +86,4 @@ make clean
 
 ## License
 
-No license file is currently included in this repository.
-If you plan to publish, consider adding one (for example, MIT).
+MIT
